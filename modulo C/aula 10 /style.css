@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+div#area{
+    display: block;
+    font: normal 20pt arial;
+    background: green;
+    color: white;
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+    margin: auto;
+    border: 5px solid black ;
+    border-radius: 8px;
+}
